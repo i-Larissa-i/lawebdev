@@ -1,0 +1,43 @@
+
+body{
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+.div1{
+    background-color:#7dc6e7;
+    padding-left: 20px;
+    padding-top: 100px;
+    height: 550px;
+    
+}
+
+.div2{
+    background-color: #9ccca7;
+    height: 700px;
+    
+}
+
+.div3{
+    background-color: #1db34a;
+    height: 200px;
+}
+h1{
+    color: #1b6605;
+}
+
+p{
+    color:#357c20;
+}
+
+.desweb{
+    text-decoration: underline;
+}
+
+.nuvemA{
+    margin-left: 450px;
+}
+
+.nuvemB{
+    position: absolute;
+}
